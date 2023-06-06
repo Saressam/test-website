@@ -1,0 +1,18 @@
+h1{
+    font: size 32px;
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
+div{
+    background-color: rgb(43, 122, 226);
+}
+a ::after{
+    content: "->";
+}
+#ana-baslik{
+    font-size: 42px;
+    color: aqua;
+    font-weight: bolder;
+}
